@@ -9,7 +9,7 @@ And  in your Journey of Python, these are some of Py projects you can utilize to
 I know there are countless Projects and Guides available on Internet - Youtube, but Hey, you may learn something !
 
 I hope, you develop and expand your Coding skills in Python;
-thrive and Godspeed !
+thrive and Godspeed ! 
 
 
 
